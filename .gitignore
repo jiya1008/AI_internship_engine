@@ -1,0 +1,24 @@
+# Dependencies / build outputs (keep repo lean)
+**/node_modules/
+**/dist/
+**/build/
+
+# Python virtualenvs / caches
+**/venv/
+**/.venv/
+**/__pycache__/
+**/*.py[cod]
+
+# Python runtime / local files
+**/.env
+**/instance/
+**/*.sqlite3
+
+# Logs / OS / editor
+**/*.log
+**/*.tmp
+**/.DS_Store
+**/Thumbs.db
+**/.vscode/
+**/.idea/
+
