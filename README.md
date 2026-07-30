@@ -153,10 +153,22 @@ curl -X POST http://localhost:5000/api/parse-resume \
 ## 🎯 User Journey
 
 1. **Landing Page**: Choose between manual profile creation or resume upload
+<img width="1280" height="715" alt="image" src="https://github.com/user-attachments/assets/0f1b755d-6384-4502-bd7f-7d0043fb5a39" />
+
 2. **Profile Creation**: Fill form with education, skills, location, and interests
+<img width="1280" height="715" alt="image" src="https://github.com/user-attachments/assets/43f280cd-73b7-4c7b-bc1e-b37ebc6061ba" />
+
 3. **Resume Upload**: Drag-and-drop resume for automatic data extraction
+<img width="1259" height="773" alt="image" src="https://github.com/user-attachments/assets/6d7e3c67-9bcf-41e5-8a58-9196f18ca7cc" />
+<img width="1285" height="756" alt="image" src="https://github.com/user-attachments/assets/3b63a5d7-b850-4662-8139-27dbb318b97f" />
+
 4. **Recommendations**: View top 3-5 personalized internship matches
+<img width="1280" height="711" alt="image" src="https://github.com/user-attachments/assets/40221255-5177-4329-b56a-2fbca82b03cd" />
+<img width="1281" height="795" alt="image" src="https://github.com/user-attachments/assets/04eaab9f-deec-4c0c-b943-dd5fa5d9c294" />
+
 5. **Application**: Apply directly to recommended internships
+<img width="726" height="539" alt="image" src="https://github.com/user-attachments/assets/c47ee842-4799-48c6-803b-3e6aea1df72d" />
+<img width="728" height="543" alt="image" src="https://github.com/user-attachments/assets/984c6a13-f68b-4318-8a38-cdb3f50bb6de" />
 
 ## 🌐 Multi-language Support
 
@@ -279,7 +291,7 @@ Use any static file server (nginx, Apache, or CDN)
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## 🆘 Support
 
