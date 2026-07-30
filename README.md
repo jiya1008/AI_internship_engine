@@ -2,9 +2,24 @@
 
 An AI-based internship recommendation system for the PM Internship Scheme that helps candidates find the most relevant internship opportunities based on their profile, skills, education, and location preferences.
 
-| Platform Overview | Dashboard View | Detail View |
-| :---: | :---: | :---: |
-| <img width="300" alt="Platform Overview" src="https://github.com/user-attachments/assets/4582763c-fbde-4702-b8e5-a6e69593c8cb" /> | <img width="300" alt="Dashboard View" src="https://github.com/user-attachments/assets/708b1d31-80ca-448a-96a5-dc79e0e8cf0e" /> | <img width="240" alt="Detail View" src="https://github.com/user-attachments/assets/07d368a7-9eb3-40da-8e95-5059d5dd63f6" /> |
+<p align="center">
+  <b>Platform Overview</b><br>
+  <img width="100%" alt="Platform Overview" src="https://github.com/user-attachments/assets/4582763c-fbde-4702-b8e5-a6e69593c8cb" />
+</p>
+
+<br>
+
+<p align="center">
+  <b>Dashboard View</b><br>
+  <img width="100%" alt="Dashboard View" src="https://github.com/user-attachments/assets/708b1d31-80ca-448a-96a5-dc79e0e8cf0e" />
+</p>
+
+<br>
+
+<p align="center">
+  <b>Detail View</b><br>
+  <img width="100%" alt="Detail View" src="https://github.com/user-attachments/assets/07d368a7-9eb3-40da-8e95-5059d5dd63f6" />
+</p>
 
 ## 🌟 Features
 
