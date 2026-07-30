@@ -2,6 +2,13 @@
 
 An AI-based internship recommendation system for the PM Internship Scheme that helps candidates find the most relevant internship opportunities based on their profile, skills, education, and location preferences.
 
+<p align="center">
+  <img width="400" alt="Platform Overview" src="https://github.com/user-attachments/assets/4582763c-fbde-4702-b8e5-a6e69593c8cb" />
+  <img width="400" alt="Dashboard View" src="https://github.com/user-attachments/assets/708b1d31-80ca-448a-96a5-dc79e0e8cf0e" />
+  <br>
+  <img width="400" alt="Detail View" src="https://github.com/user-attachments/assets/07d368a7-9eb3-40da-8e95-5059d5dd63f6" />
+</p>
+
 ## 🌟 Features
 
 - **AI-Powered Recommendations**: Rule-based ML-light recommendation engine
@@ -10,6 +17,12 @@ An AI-based internship recommendation system for the PM Internship Scheme that h
 - **Mobile-Responsive**: Touch-friendly interface optimized for mobile devices
 - **Simple UI/UX**: Designed for users with low digital literacy
 - **Personalized Results**: Top 3-5 tailored internship suggestions
+- **Gemini AI Chatbot**: Inbuilt interactive assistant to answer candidate queries, assist with platform navigation, and explain recommendation results
+
+<p align="center">
+  <img width="600" alt="Features Overview" src="https://github.com/user-attachments/assets/fdd849b5-b07d-4a55-b6c3-426f1f7697f2" />
+</p>
+
 
 ## 🏗️ Architecture
 
